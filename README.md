@@ -11,4 +11,15 @@
      •	Spring Data JPA - 2+
      •	Spring Boot - 2.0.5. RELEASE
      •	Mysql
+     
+####      Front end technologies
+     •	Angular 8/9
+     •	Bootstrap 3/4
+     •	npm- 6.9.0
+
     
+####      Tools
+     •	Maven - 3.2+
+     •	IDE – Eclipse – Used for Spring boot API development
+     •	Visual Studio 2017 – Used for Angular App development
+     •	Angular CLI
