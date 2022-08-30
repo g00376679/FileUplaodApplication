@@ -23,3 +23,7 @@
      •	IDE – Eclipse – Used for Spring boot API development
      •	Visual Studio 2017 – Used for Angular App development
      •	Angular CLI
+     
+## Getting Started 
+#### Download and extract the zip folder here [fileUploadApplication](targetURL "fileUploadApplication")
+
