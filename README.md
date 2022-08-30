@@ -4,7 +4,7 @@
 ## Prerequisites
 #### These are the technologies that we are using in my project.
 
-#### •	Spring Boot - 2.0.5. RELEASE
+#### 	Spring Boot - 2.0.5. RELEASE
      •	JDK - 1.8 or later
      •	Tomcat Server
      •	Hibernate - 5.2.17. Final
