@@ -25,5 +25,5 @@
      •	Angular CLI
      
 ## Getting Started 
-#### Download and extract the zip folder here [fileUploadApplication](targetURL "fileUploadApplication")
+#### Download and extract the zip folder here [fileUploadApplication](https://github.com/g00376679/FileUplaodApplication/archive/refs/heads/main.zip "fileUploadApplication")
 
