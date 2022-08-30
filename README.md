@@ -39,4 +39,4 @@
 
 
 ## License
-This project is licensed under the MIT [MIT](https://github.com/g00376679/FileUplaodApplication/blob/main/LICENSE "MIT") License.
+This project is licensed under the [MIT](https://github.com/g00376679/FileUplaodApplication/blob/main/LICENSE "MIT") License.
