@@ -33,3 +33,6 @@
 ##### To run the front end type ng serve into your console
 ##### To run back end go to main method class SpringBootUploadFilesDatabaseApplication (Run as a spring boot app)
 
+
+## Author
+
